@@ -23,7 +23,7 @@ Windows proxy rotator with GUI
 
 ## HOW TO USE:
 - pip install -r requirements.txt
-- python main.py
+- python main.py --gui
 
 #### If you like this development, you can donate a little help to the :
 - PayPal : albertflicky@gmail.com
